@@ -3,7 +3,7 @@ A robot that navigates through an unknown path by reading signs.
 i used an Alphabot2 kit and a raspberry pi 3B+.
 
 There are two major components to this project:
-object detection (signs, and arrows)
+object detection (signs, and arrows), 
 PID controller for object tracking
 
 how the bot follow his path?
